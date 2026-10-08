@@ -1,6 +1,6 @@
-# Advanced Python Solo Assessment (4 Hours)
+# Advanced Python Solo Assessment 
 
-## Duration: 180 minutes. Build a command-line Campus Resource Management System in Python.
+## Build a command-line Campus Resource Management System in Python.
 
     Complete the required demonstration.
 
@@ -9,7 +9,7 @@
 
     Learn2Earn lends equipment to fellows. Build a working Python program that stores resource inventory, issues items, accepts returns, searches inventory and produces accurate reports.
 
-## REQUIREMENTS (70 marks):
+## REQUIREMENTS:
 
 1. Resource inventory (10): Every resource has unique ID, name, category, total units and available units. Add and list resources; reject duplicate IDs.
 
