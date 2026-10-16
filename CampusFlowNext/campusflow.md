@@ -63,3 +63,5 @@ Optional bonus, maximum 5 bonus marks outside 100: persist and reload inventory 
 
     A3. Project design explanation
         Manually graded. Name at least four functions, explain how inventory and fellow loans are represented, and describe one design limitation.
+
+This is the first project.
